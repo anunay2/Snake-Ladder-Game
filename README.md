@@ -2,7 +2,7 @@
 LLD of snake ladder game(Multiplayer , personalised Board and Die )  [OOPs]
 Develop a snake and ladder game
 
-Image of Snakes and Ladders
+![image](https://user-images.githubusercontent.com/35661357/150627735-faf25e63-6829-4da0-9b34-97f9bcaafb80.png)
 
 Board can be of any size Each player puts their counter on the board starting position.
 Take it in turns to roll the dice.
